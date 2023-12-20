@@ -1,0 +1,1 @@
+date: 2023-12-20 01:21:23, module: Load to data mart, status="fail", message_error: connect control failed

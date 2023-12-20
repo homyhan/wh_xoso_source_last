@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Transform-Aggregate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Transform_Aggregate_jar</output-path>
+    <root id="archive" name="Transform-Aggregate.jar">
+      <element id="module-output" name="Transform-Aggregate" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
