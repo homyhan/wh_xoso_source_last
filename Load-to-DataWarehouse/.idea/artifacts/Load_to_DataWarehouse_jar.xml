@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Load-to-DataWarehouse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Load_to_DataWarehouse_jar</output-path>
+    <root id="archive" name="Load-to-DataWarehouse.jar">
+      <element id="module-output" name="Load-to-DataWarehouse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
