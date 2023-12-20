@@ -1,0 +1,12 @@
+date: 2023-12-19 20:47:14, module: Transform, status="fail", message_error: Date format error
+
+date: 2023-12-19 23:14:27, module: Transform, status="fail", message_error: Date format error
+
+date: 2023-12-19 23:16:13, module: Transform, status="fail", message_error: Date format error
+
+date: 2023-12-19 23:23:30, module: Transform, status="fail", message_error: Date format error
+
+date: 2023-12-19 23:30:56, module: Transform, status="fail", message_error: Date format error
+
+date: 2023-12-19 23:31:36, module: Transform, status="fail", message_error: Date format error
+
